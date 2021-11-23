@@ -56,4 +56,7 @@ Somos un _**asociación**_ amante de los animales. Fuck ~~maltrato~~ fuck sapos.
 
 <img width="80" src="perroLadrando.jpg"/>
 
+![alt][banner]
+
 [perro]:samoyedo.jpg
+[banner]:banner.svg
